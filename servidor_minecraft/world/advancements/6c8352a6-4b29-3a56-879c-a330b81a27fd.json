@@ -1,0 +1,540 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2026-04-03 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2026-04-03 18:26:46 +0000",
+      "minecraft:taiga": "2026-04-04 02:58:39 +0000",
+      "minecraft:deep_ocean": "2026-04-03 16:42:13 +0000",
+      "minecraft:birch_forest": "2026-04-03 03:40:32 +0000",
+      "minecraft:dark_forest": "2026-04-03 03:38:56 +0000",
+      "minecraft:river": "2026-04-03 03:39:51 +0000",
+      "minecraft:lukewarm_ocean": "2026-04-03 18:15:12 +0000",
+      "minecraft:stony_shore": "2026-04-03 03:41:17 +0000",
+      "minecraft:dripstone_caves": "2026-04-03 15:55:23 +0000",
+      "minecraft:cold_ocean": "2026-04-04 02:37:35 +0000",
+      "minecraft:forest": "2026-04-03 15:20:23 +0000",
+      "minecraft:lush_caves": "2026-04-05 03:05:05 +0000",
+      "minecraft:deep_cold_ocean": "2026-04-04 02:50:29 +0000",
+      "minecraft:ocean": "2026-04-03 03:40:48 +0000",
+      "minecraft:old_growth_birch_forest": "2026-04-03 15:19:12 +0000",
+      "minecraft:savanna": "2026-04-03 18:14:33 +0000",
+      "minecraft:plains": "2026-04-03 18:14:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-04-03 03:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-04-03 03:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-04-03 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-04-03 03:42:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-04-04 02:41:18 +0000",
+      "opened_chest": "2026-04-03 03:42:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-04-03 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-04-03 15:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2026-04-06 00:38:18 +0000",
+      "minecraft:skeleton": "2026-04-03 15:09:21 +0000",
+      "minecraft:spider": "2026-04-03 17:43:27 +0000",
+      "minecraft:creeper": "2026-04-03 15:09:36 +0000",
+      "minecraft:slime": "2026-04-04 23:03:53 +0000",
+      "minecraft:phantom": "2026-04-03 16:27:21 +0000",
+      "quark:wraith": "2026-04-06 00:26:46 +0000",
+      "minecraft:enderman": "2026-04-06 00:08:04 +0000",
+      "minecraft:zombie": "2026-04-03 15:06:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-04-03 15:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2026-04-03 17:30:32 +0000",
+      "beef": "2026-04-03 16:27:07 +0000",
+      "baked_potato": "2026-04-05 13:42:05 +0000",
+      "apple": "2026-04-03 15:51:46 +0000",
+      "cooked_cod": "2026-04-03 17:00:10 +0000",
+      "bread": "2026-04-03 15:18:23 +0000",
+      "rotten_flesh": "2026-04-03 16:05:14 +0000",
+      "golden_carrot": "2026-04-03 15:47:55 +0000",
+      "cooked_salmon": "2026-04-03 17:41:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-03 15:18:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2026-04-03 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-04-03 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-04-03 15:36:55 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-04-03 16:04:01 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-04-03 16:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-04-03 16:22:11 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-04-03 16:24:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2026-04-03 17:43:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2026-04-03 18:04:35 +0000",
+      "earth": "2026-04-04 23:04:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-04-03 18:04:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-04-04 02:41:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2026-04-04 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-04-04 02:46:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2026-04-04 02:57:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2026-04-04 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2026-04-04 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2026-04-04 03:28:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-04-04 03:28:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2026-04-04 03:29:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2026-04-04 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "amethyst_bronze": "2026-04-05 13:40:31 +0000",
+      "seared_stone": "2026-04-04 03:30:21 +0000",
+      "cobalt": "2026-04-05 23:08:23 +0000",
+      "manyullyn": "2026-04-04 03:41:02 +0000",
+      "copper": "2026-04-04 16:27:39 +0000",
+      "wood": "2026-04-04 03:30:21 +0000",
+      "rose_gold": "2026-04-04 16:20:31 +0000",
+      "slimesteel": "2026-04-04 16:20:31 +0000",
+      "iron": "2026-04-04 16:52:23 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-04-04 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2026-04-04 03:34:39 +0000",
+      "1": "2026-04-04 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-04-04 03:36:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2026-04-04 03:41:02 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:cabin_village": {
+    "criteria": {
+      "in_cabin_village": "2026-04-04 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-04-04 03:58:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2026-04-04 04:34:13 +0000",
+      "seared_basin": "2026-04-04 04:25:54 +0000",
+      "seared_table": "2026-04-04 04:53:11 +0000",
+      "seared_faucet": "2026-04-04 04:35:32 +0000",
+      "seared_melter": "2026-04-04 04:35:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2026-04-04 04:53:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2026-04-04 04:54:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2026-04-04 04:54:20 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-04-04 04:56:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2026-04-04 04:56:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2026-04-04 04:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-04-04 15:39:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2026-04-04 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2026-04-04 16:04:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "tough_binding": "2026-04-04 16:05:35 +0000",
+      "large_plate": "2026-04-04 16:06:39 +0000",
+      "tough_handle": "2026-04-04 16:06:01 +0000",
+      "leggings_plating": "2026-04-05 13:35:31 +0000",
+      "bow_limb": "2026-04-05 23:55:29 +0000",
+      "small_blade": "2026-04-05 23:55:35 +0000",
+      "tool_binding": "2026-04-04 16:16:38 +0000",
+      "bow_grip": "2026-04-05 23:55:46 +0000",
+      "broad_axe_head": "2026-04-04 16:05:43 +0000",
+      "pick_head": "2026-04-04 16:05:19 +0000",
+      "hammer_head": "2026-04-04 21:27:03 +0000",
+      "small_axe_head": "2026-04-04 16:16:09 +0000",
+      "boots_plating": "2026-04-05 13:36:18 +0000",
+      "chestplate_plating": "2026-04-05 13:35:23 +0000",
+      "maille": "2026-04-05 13:48:26 +0000",
+      "tool_handle": "2026-04-04 16:06:23 +0000",
+      "broad_blade": "2026-04-05 03:45:45 +0000",
+      "helmet_plating": "2026-04-05 13:35:18 +0000",
+      "ingot": "2026-04-04 18:53:49 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2026-04-04 16:05:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "broad_axe": "2026-04-04 16:20:31 +0000",
+      "excavator": "2026-04-04 18:12:30 +0000",
+      "sledge_hammer": "2026-04-05 03:37:13 +0000",
+      "vein_hammer": "2026-04-05 22:59:54 +0000",
+      "cleaver": "2026-04-05 23:01:48 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2026-04-04 16:27:39 +0000",
+      "hand_axe": "2026-04-05 23:18:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-04-04 16:35:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2026-04-04 16:53:12 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2026-04-04 18:08:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-04-04 22:15:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2026-04-04 23:03:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2026-04-05 03:45:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "flinging": "2026-04-05 13:33:44 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2026-04-05 13:55:15 +0000",
+      "crafted_boots": "2026-04-05 13:52:46 +0000",
+      "crafted_helmet": "2026-04-05 13:55:12 +0000",
+      "crafted_chestplate": "2026-04-05 13:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-04-06 00:15:31 +0000",
+      "minecraft:basalt_deltas": "2026-04-06 00:37:57 +0000",
+      "minecraft:warped_forest": "2026-04-06 00:05:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-04-06 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-04-06 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-04-06 00:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-04-06 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "6c8352a6-4b29-3a56-879c-a330b81a27fd",
+    "name": "valencapo10",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f012be86-ad47-3b69-8485-3bf9cf9ecbec",
+    "name": "nchss00",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b",
+    "name": "denercraft",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "662dc439-e156-363e-a35c-7bb67826e6e2",
+    "name": "PavoLoco",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

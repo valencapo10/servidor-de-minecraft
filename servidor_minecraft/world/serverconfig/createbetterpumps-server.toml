@@ -1,0 +1,21 @@
+
+#.
+#Create Better Pumps kinetics tuning
+[stressValues]
+
+	#.
+	#.
+	#[in Stress Units]
+	#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+	[stressValues.impact]
+		gold_pump = 9.0
+		large_cog_iron_pump = 7.0
+		large_cog_wood_pump = 9.0
+		iron_pump = 6.0
+		large_cog_brass_pump = 2.0
+		large_cog_diamond_pump = 16.0
+		large_cog_gold_pump = 10.0
+		wood_pump = 8.0
+		brass_pump = 11.0
+		diamond_pump = 15.0
+

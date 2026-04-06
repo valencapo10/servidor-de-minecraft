@@ -1,0 +1,455 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2026-04-03 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2026-04-03 18:26:45 +0000",
+      "minecraft:taiga": "2026-04-04 02:58:39 +0000",
+      "minecraft:deep_ocean": "2026-04-03 17:44:00 +0000",
+      "minecraft:birch_forest": "2026-04-03 17:23:46 +0000",
+      "minecraft:dark_forest": "2026-04-03 03:41:20 +0000",
+      "minecraft:river": "2026-04-03 16:41:25 +0000",
+      "minecraft:lukewarm_ocean": "2026-04-03 17:47:21 +0000",
+      "minecraft:stony_shore": "2026-04-03 17:25:42 +0000",
+      "minecraft:cold_ocean": "2026-04-04 02:37:35 +0000",
+      "minecraft:forest": "2026-04-03 17:06:53 +0000",
+      "minecraft:lush_caves": "2026-04-04 18:25:46 +0000",
+      "minecraft:deep_cold_ocean": "2026-04-04 02:50:29 +0000",
+      "minecraft:ocean": "2026-04-03 17:23:29 +0000",
+      "minecraft:old_growth_birch_forest": "2026-04-03 16:30:48 +0000",
+      "minecraft:deep_dark": "2026-04-04 18:28:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-04-03 16:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-04-03 17:07:43 +0000",
+      "minecraft:guardian": "2026-04-04 18:40:16 +0000",
+      "minecraft:spider": "2026-04-03 16:32:28 +0000",
+      "minecraft:creeper": "2026-04-04 04:40:06 +0000",
+      "minecraft:slime": "2026-04-04 02:49:32 +0000",
+      "minecraft:witch": "2026-04-04 17:33:15 +0000",
+      "minecraft:zombie": "2026-04-03 16:30:09 +0000",
+      "minecraft:drowned": "2026-04-04 02:29:21 +0000",
+      "minecraft:zombie_villager": "2026-04-03 17:42:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-04-03 16:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2026-04-03 17:23:05 +0000",
+      "beef": "2026-04-03 16:42:44 +0000",
+      "porkchop": "2026-04-03 17:37:23 +0000",
+      "mutton": "2026-04-03 17:19:10 +0000",
+      "cod": "2026-04-04 18:56:52 +0000",
+      "carrot": "2026-04-03 17:45:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-03 16:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-04-03 16:54:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2026-04-03 16:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-04-03 16:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-04-03 16:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-04-03 17:11:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2026-04-03 17:23:02 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-04-03 17:25:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-04-04 02:41:12 +0000",
+      "opened_chest": "2026-04-03 17:25:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-04-03 17:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-04-03 17:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-04-03 17:42:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2026-04-03 17:48:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2026-04-03 17:49:19 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-04-04 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2026-04-04 02:41:20 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2026-04-04 03:26:52 +0000",
+      "1": "2026-04-04 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-04-04 02:42:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-04-04 02:43:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-04-04 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2026-04-04 02:49:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2026-04-04 02:57:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2026-04-04 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2026-04-04 02:57:24 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2026-04-04 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2026-04-04 03:28:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-04-04 03:36:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2026-04-04 03:54:11 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:cabin_village": {
+    "criteria": {
+      "in_cabin_village": "2026-04-04 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-04-04 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-04-04 04:20:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2026-04-04 04:30:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "amethyst_bronze": "2026-04-05 23:08:28 +0000",
+      "cobalt": "2026-04-05 23:08:53 +0000",
+      "manyullyn": "2026-04-04 04:30:48 +0000",
+      "copper": "2026-04-04 17:20:32 +0000",
+      "rose_gold": "2026-04-04 17:20:30 +0000",
+      "slimesteel": "2026-04-04 17:20:30 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2026-04-04 04:30:48 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-04-04 04:54:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2026-04-04 04:54:57 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "broad_axe": "2026-04-04 17:20:30 +0000",
+      "excavator": "2026-04-05 23:08:29 +0000",
+      "sledge_hammer": "2026-04-05 23:08:28 +0000",
+      "vein_hammer": "2026-04-05 23:08:28 +0000",
+      "cleaver": "2026-04-05 23:08:28 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2026-04-04 17:20:32 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2026-04-04 17:20:46 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-04-04 17:23:23 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-04-04 17:29:18 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2026-04-04 17:34:50 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-04-04 17:37:49 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2026-04-04 17:39:46 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-04-04 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2026-04-04 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-04-04 18:31:10 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2026-04-04 18:31:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2026-04-04 18:43:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-04-04 19:01:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2026-04-05 03:10:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2026-04-05 03:26:17 +0000"
+    },
+    "done": true
+  },
+  "create:cart_pickup": {
+    "criteria": {
+      "0": "2026-04-05 21:19:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
